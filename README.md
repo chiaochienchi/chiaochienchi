@@ -15,7 +15,7 @@ I'm **Jiao Qianji**. A postgraduated student from Xi'An, China.
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=chiaochienchi) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaochienchi)](https://github.com/chiaochienchi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaochienchi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
