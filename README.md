@@ -2,7 +2,7 @@
 
 ### 👋你好，欢迎 👻
 
-***
+---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chiaochienchi" />
 
