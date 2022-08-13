@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chiaochienchi" />
 
-I'm **Jiao Qianji**. A postgraduated student from Xi'An China.
+I'm **Jiao Qianji**. A postgraduated student from Xi'An, China.
 
 - 🙋 Major in Applied Statistics 
 - 🌱 I’m currently learning python/ML/Graph Theory 
