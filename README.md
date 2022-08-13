@@ -12,15 +12,14 @@ I'm **Jiao Qianji**. A postgraduated student from Xi'An, China.
 - 🌱 I’m currently learning python/ML/Graph Theory 
 - 📫 How to reach me: jiaoqianji1999@hnu.edu.cn 
 - 😄 Pronouns: he/him 
-- 
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=chiaochienchi) -->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaochienchi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-
+<!-- ![](https://github-readme-stats.vercel.app/api?username=chiaochienchi) -->
 <!--
 **chiaochienchi/chiaochienchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
