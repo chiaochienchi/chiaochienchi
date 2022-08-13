@@ -1,10 +1,8 @@
 ### Hi there 👋
 I'm **Jiao Qianji**. A postgraduated student from Xi'An China.
 
--
 
-
-![](https://github-readme-stats.vercel.app/api?username=chiaochienchi&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=chiaochienchi)
 
 
 
