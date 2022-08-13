@@ -1,8 +1,17 @@
 ### Hi there 👋
+---
+
 I'm **Jiao Qianji**. A postgraduated student from Xi'An China.
 
+- 🙋 Major in Applied Statistics 
+- 🌱 I’m currently learning python/ML/Graph Theory 
+- 📫 How to reach me: jiaoqianji1999@hnu.edu.cn 
+- 😄 Pronouns: he/him 
 
 ![](https://github-readme-stats.vercel.app/api?username=chiaochienchi)
+
+
+
 
 
 
