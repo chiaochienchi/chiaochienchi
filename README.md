@@ -1,8 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-### 👋你好，欢迎 👻
-
----
+## 👋你好，欢迎 👻
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chiaochienchi&show_icons=true" />
 
@@ -14,7 +12,7 @@ I'm **Jiao Qianji**. A postgraduated student from Xi'An, China.
 - 😄 Pronouns: he/him 
 -
 
----
+##
 
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 
@@ -27,7 +25,7 @@ INI      0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
----
+##
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=chiaochienchi) -->
 
