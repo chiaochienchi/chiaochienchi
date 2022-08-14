@@ -13,11 +13,11 @@ I'm **Jiao Qianji**. A postgraduated student from Xi'An, China.
 - 📫 How to reach me: jiaoqianji1999@hnu.edu.cn 
 - 😄 Pronouns: he/him 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaochienchi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub states](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaochienchi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
