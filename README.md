@@ -13,9 +13,6 @@ I'm **Jiao Qianji**. A postgraduated student from Xi'An, China.
 - 📫 How to reach me: jiaoqianji1999@hnu.edu.cn 
 - 😄 Pronouns: he/him 
 -
--
-
-
 
 ---
 
@@ -32,12 +29,8 @@ INI      0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
-
-[![Anurag's GitHub states](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaochienchi)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!-- ![](https://github-readme-stats.vercel.app/api?username=chiaochienchi) -->
+
 <!--
 **chiaochienchi/chiaochienchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
