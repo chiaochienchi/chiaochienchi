@@ -19,7 +19,8 @@ I'm **Jiao Qianji**. A postgraduated student from Xi'An, China.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     0 hrs 10 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜   90.37 %
+Markdown   0 hrs 1 mins    🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.63 %
 ```
 
 <!--END_SECTION:waka-->
