@@ -19,7 +19,7 @@ I'm **Jiao Qianji**. A postgraduated student from Xi'An, China.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 hrs 4 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
