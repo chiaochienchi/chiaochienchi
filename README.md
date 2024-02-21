@@ -2,7 +2,7 @@
 
 ## 👋你好，欢迎 👻
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chiaochienchi&show_icons=true" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jiaoqianji&show_icons=true" />
 
 I'm **Jiao Qianji**. A postgraduated student from Xi'An, China.
 
